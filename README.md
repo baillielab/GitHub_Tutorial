@@ -9,12 +9,13 @@ These tutorials are aimed at beginners and provide hands-on practice with the co
 
 ## Table of Contents
 
-- [1 - Initial Setup](Tutorials/01-Initial-Setup.md)  
-- [2 - Introduction to Repositories](Tutorials/02-Introduction-to-Repositories.md)  
-- [3 - Exploring a Repository on GitHub](Tutorials/03-Exploring-a-Repository-on-GitHub.md)  
-- [4 - Cloning the Repository](Tutorials/04-Cloning-the-Repository.md)  
-- [5 - Forking, Pushing, and Pulling](Tutorials/05-Forking-Pushing-and-Pulling.md)  
-- [6 - Creating Your Own Repository](Tutorials/06-Creating-Your-Own-Repository.md)  
+- [1 - Initial Setup](https://github.com/baillielab/GitHub_Tutorial/blob/main/Tutorials/01-Initial-Setup.md)
+- [2 - Introduction to Repositories](https://github.com/baillielab/GitHub_Tutorial/blob/main/Tutorials/02-Introduction-to-Repositories.md)
+- [3 - Exploring a Repository on GitHub](https://github.com/baillielab/GitHub_Tutorial/blob/main/Tutorials/03-Exploring-a-Repository-on-GitHub.md)
+- [4 - Cloning the Repository](https://github.com/baillielab/GitHub_Tutorial/blob/main/Tutorials/04-Cloning-the-Repository.md)
+- [5 - Forking, Pushing, and Pulling](https://github.com/baillielab/GitHub_Tutorial/blob/main/Tutorials/05-Forking-Pushing-and-Pulling.md)
+- [6 - Creating Your Own Repository](https://github.com/baillielab/GitHub_Tutorial/blob/main/Tutorials/06-Creating-Your-Own-Repository.md)
+
 
 ---
 
