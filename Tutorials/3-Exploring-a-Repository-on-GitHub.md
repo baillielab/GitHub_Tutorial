@@ -23,7 +23,8 @@ Once on the repository page, take note of:
 - **Branches** – check the branch dropdown near the top-left to see if there are multiple versions.  
 - **Commit history** – click on the **Commits** link to see all changes made to the repo, who made them, and when.
 
-![Annotated Screenshot of a GitHub Repository](../Images/repo_anatomy.pngImages/repo_anatomy.png)
+![Annotated Screenshot of a GitHub Repository](https://github.com/baillielab/GitHub_Tutorial/raw/main/Images/repo_anatomy.png)
+
 
 *Tip: The GitHub website is a good place to explore a repo without making any changes. You can also preview files, review changes, and copy code snippets.*
 
