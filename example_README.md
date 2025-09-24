@@ -59,6 +59,7 @@ python scripts/plot_figures.py
 
 A brief overview of the repository layout:
 
+```
 project-name/
 ├── README.md       <- Project overview
 ├── data/           <- Raw data (keep originals separate)
@@ -66,6 +67,7 @@ project-name/
 ├── figures/        <- Plots, graphs, and images
 ├── outputs/        <- Processed data or results
 └── docs/           <- Notes, reports, or supplementary documentation
+```
 
 ---
 
